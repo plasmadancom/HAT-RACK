@@ -6,7 +6,7 @@ HAT RACK is the big brother to our <a href="https://github.com/plasmadancom/DINP
 
 ![HAT RACK with Raspberry Pi](/img/hat-rack-raspberry-pi.png)
 
-Just like its little brother, HAT RACK allows a Raspberry Pi to be mounted upside down. No need for ribbon cables or messy wiring, just plug & play! Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed.
+Just like its little brother, HAT RACK allows a Raspberry Pi to be mounted upside down. No need for ribbon cables or messy wiring, just plug & play! Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed <a href="https://plasmadan.com/hatrack" target="_blank">here</a>.
 
 ## Multiple Uses
 
@@ -20,13 +20,13 @@ You can also power your HATs and back-power your Raspberry Pi by means of a 3.5m
 
 <p align="center">
     <a href="https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">
-        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.png" style="width:50%;max-width:600px">
+        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.png" width="50%">
     </a>
 </p>
 
 HAT RACK is open hardware, you can order the PCBs directly from our board manufacturer; <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow noopener noreferrer">PCBWay</a>. We earn a small kickback if you sign-up using <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow noopener noreferrer">this link</a>. You can customise the board colour, surface finish etc.
 
-Alternatively you can buy a HAT RACK board from us <a href="https://plasmadan.com/hatrack" target="_blank">here</a>.
+Alternatively you can buy a HAT RACK kit from us <a href="https://plasmadan.com/hatrack" target="_blank">here</a>.
 
 ## Device Compatibility
 
