@@ -60,7 +60,7 @@ HAT RACK is fully compatible with all **40-way** Raspberry Pi models and clones.
 ## Mechanical
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/DINPi/master/img/hat-rack-dimensions.png" target="_blank">
+    <a href="https://raw.githubusercontent.com/plasmadancom/HAT-RACK/master/img/hat-rack-dimensions.png" target="_blank">
         <img alt="Mechanical Drawing" src="/img/hat-rack-dimensions.png">
     </a>
 </p>
