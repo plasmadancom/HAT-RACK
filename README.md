@@ -20,7 +20,7 @@ You can also power your HATs and back-power your Raspberry Pi by means of a 3.5m
 
 <p align="center">
     <a href="https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">
-        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.png" width="50%">
+        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.png" width="75%">
     </a>
 </p>
 
@@ -59,6 +59,10 @@ HAT RACK is fully compatible with all **40-way** Raspberry Pi models and clones.
 
 ## Mechanical
 
-![HAT RACK Dimensions](/img/hat-rack-dimensions.png)
+<p align="center">
+    <a href="https://raw.githubusercontent.com/plasmadancom/DINPi/master/img/hat-rack-dimensions.png" target="_blank">
+        <img alt="Mechanical Drawing" src="/img/hat-rack-dimensions.png">
+    </a>
+</p>
 
 #### License: [MIT](/LICENSE)
