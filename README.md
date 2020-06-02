@@ -2,13 +2,13 @@
 
 ![HAT RACK](/img/hat-rack.png)
 
-HAT RACK is the big brother to our <a href="https://github.com/plasmadancom/DINPi">DINPi board</a>, and is compatible! Stack, wire or daisy chain together to create arrays of connected HATs or pHATs. Ideal for home automation or industrial control applications. HAT RACK is also DIN rail mountable using three universal rail adaptors.
+HAT RACK is the big brother to our [DINPi board](https://github.com/plasmadancom/DINPi), and is compatible! Stack, wire or daisy chain together to create arrays of connected HATs or pHATs. Ideal for home automation or industrial control applications. HAT RACK is also DIN rail mountable using three universal rail adaptors.
 
 ![HAT RACK with Raspberry Pi](/img/hat-rack-raspberry-pi.png)
 
-Just like its little brother, HAT RACK allows a Raspberry Pi to be mounted upside down. No need for ribbon cables or messy wiring, just plug & play! Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed <a href="https://plasmadan.com/hatrack" target="_blank">here</a>.
+Just like its little brother, HAT RACK allows a Raspberry Pi to be mounted upside down. No need for ribbon cables or messy wiring, just plug & play! Available as a kit, simply solder whichever headers / sockets you require for your project. Or buy an assembled unit with all the parts pre-installed [here](https://plasmadan.com/hatrack).
 
-## Multiple Uses
+## Versitile
 
 ![HAT RACK](/img/hat-rack-raspberry-pi-alternate.png)
 
@@ -24,9 +24,10 @@ You can also power your HATs and back-power your Raspberry Pi by means of a 3.5m
     </a>
 </p>
 
-HAT RACK is open hardware, you can order the PCBs directly from our board manufacturer; <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow noopener noreferrer">PCBWay</a>. We earn a small kickback if you sign-up using <a href="https://www.pcbway.com/setinvite.aspx?inviteid=19024" target="_blank" rel="nofollow noopener noreferrer">this link</a>. You can customise the board colour, surface finish etc.
+HAT RACK is open hardware, you can order the PCBs directly from our board manufacturer; [PCBWay](https://www.pcbway.com/setinvite.aspx?inviteid=19024). We earn a small kickback if you sign-up using [this link](https://www.pcbway.com/setinvite.aspx?inviteid=19024). You can customise the board colour, surface finish etc.
 
-Alternatively you can buy a HAT RACK kit from us <a href="https://plasmadan.com/hatrack" target="_blank">here</a>.
+Order your HAT RACK boards [here](https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html).
+Alternatively you can buy a HAT RACK kit from us [here](https://plasmadan.com/hatrack).
 
 ## Device Compatibility
 
