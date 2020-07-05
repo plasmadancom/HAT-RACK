@@ -18,11 +18,13 @@ A single Raspberry Pi can be mounted upside down. No need for ribbon cables, jus
 
 ## Incredibly Versatile
 
-![HAT RACK with Raspberry Pi](/img/hat-rack-raspberry-pi.png)
+![HAT RACK Animated](/img/hat-rack-animated.gif)
 
-![HAT RACK](/img/hat-rack-raspberry-pi-alternate.png)
+HAT RACK can be configured in a whole bunch of ways. In theory there's no limit to how many boards you can have, provided you can supply enough power to them.
 
-HAT RACK can be configured in a number of ways. The right angle socket connector used to daisy chain multiple boards together can also double as a secondary Raspberry Pi position, allowing a full 3 HATs to be mounted on a single HAT RACK board. You can even add a 4th HAT / pHAT on the end.
+## External Powering
+
+You can optionally externally power your boards. This may be necessary when using lots of HATs or pHATs as the Raspberry Pi may not be able to supply enough power to them. This will depend on the HATs being used. Low-power HATs (such as our [CTRL HAT](https://plasmadan.com/ctrlhat)) can be daisy chained several times before external powering becomes necessary.
 
 ## Customising
 
