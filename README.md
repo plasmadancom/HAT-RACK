@@ -29,8 +29,8 @@ You can optionally externally power your boards. This may be necessary when usin
 ## Customising
 
 <p align="center">
-    <a href="https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html" target="_blank" rel="nofollow noopener noreferrer">
-        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.png" width="500px">
+    <a href="https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html">
+        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.gif" width="500">
     </a>
 </p>
 
@@ -72,7 +72,7 @@ We have released an interactive [3D model](https://grabcad.com/library/hat-rack-
 ## Dimensions
 
 <p align="center">
-    <a href="https://raw.githubusercontent.com/plasmadancom/HAT-RACK/master/img/hat-rack-dimensions.gif" target="_blank">
+    <a href="https://raw.githubusercontent.com/plasmadancom/HAT-RACK/master/img/hat-rack-dimensions.gif">
         <img alt="Mechanical Drawing" src="/img/hat-rack-dimensions.gif">
     </a>
 </p>
