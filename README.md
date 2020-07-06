@@ -9,8 +9,10 @@ HAT RACK is the big brother to our [DINPi board](https://github.com/plasmadancom
 * Plug & Play Raspberry Pi or Pi Zero
 * Daisy chain multiple boards
 * DIN rail mountable
-* Optional external power in
-* Clear & descriptive BCM pin numbering
+* External power in
+* BCM pin numbering
+* Gold flash plated pins
+* RoHS compliant (lead free)
 
 ![HAT RACK DIN Rail](/img/hat-rack-din-rail.gif)
 
