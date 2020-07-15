@@ -6,7 +6,7 @@ HAT RACK is the big brother to our [DINPi board](https://github.com/plasmadancom
 
 ## Features
 * Connect 3 HATs or 6 pHATs
-* Plug & Play Raspberry Pi or Pi Zero
+* Plug & play Raspberry Pi or Pi Zero
 * Daisy chain multiple boards
 * DIN rail mountable
 * External power in
@@ -27,16 +27,6 @@ HAT RACK can be configured in a whole bunch of ways. In theory there's no limit 
 ## External Powering
 
 You can optionally externally power your boards. This may be necessary when using lots of HATs or pHATs as the Raspberry Pi may not be able to supply enough power to them. This will depend on the HATs being used. Low-power HATs (such as our [CTRL HAT](https://plasmadan.com/ctrlhat)) can be daisy chained several times before external powering becomes necessary.
-
-## Customising
-
-<p align="center">
-    <a href="https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html">
-        <img alt="HAT RACK PCB" src="/img/hat-rack-pcb.gif" width="500">
-    </a>
-</p>
-
-You can customise HAT RACK by ordering directly from our board manufacturer in China. We earn a small kickback if you sign-up using [this link](https://www.pcbway.com/setinvite.aspx?inviteid=19024). You can change the colour, surface finish, gold plating and more. Order [here](https://www.pcbway.com/project/shareproject/HAT_RACK___Multi_HAT_Mount_for_Raspberry_Pi.html).
 
 ## Device Compatibility
 
@@ -63,7 +53,7 @@ HAT RACK is fully compatible with all **40-way** Raspberry Pi models and clones.
 * 2×20 pin socket (generic) - For mounting Raspberry Pi upside down
 * 2×20 pin 90 degree header (generic)
 * 2×20 pin 90 degree socket (generic)
-* 3.5mm pitch terminal block (generic)
+* 2 position 3.5mm pitch terminal block (generic)
 * Electrolytic capacitor, 100 µF (or similar), 2.5mm lead spacing (generic)
 * DIN rail adaptor (Phoenix Contact 1201578 or generic) – x3
 
