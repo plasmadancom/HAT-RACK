@@ -74,9 +74,10 @@ We have released an interactive [3D model](https://grabcad.com/library/hat-rack-
 
 ## Dimensions
 
+
 <p align="center">
     <a href="https://raw.githubusercontent.com/plasmadancom/HAT-RACK/master/img/hat-rack-v1.1-dimensions.svg">
-        <img alt="Mechanical Drawing" src="/img/hat-rack-v1.1-dimensions.svg">
+        <img alt="Mechanical Drawing" src="/img/hat-rack-v1.1-dimensions.svg" width="600">
     </a>
 </p>
 
