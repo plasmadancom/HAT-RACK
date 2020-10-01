@@ -43,7 +43,6 @@ HAT RACK is fully compatible with all **40-way** Raspberry Pi models and clones.
 | Device Model | Compatibility |
 | --- | :---: |
 | Raspberry Pi Model A/B | &#x274c; |
-| Raspberry Pi Model B | &#x274c; |
 | Raspberry Pi 1 Model A+/B/B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 2 Model B | &#x2714;&#xFE0F; |
 | Raspberry Pi 3 Model B/B+ | &#x2714;&#xFE0F; |
@@ -52,6 +51,7 @@ HAT RACK is fully compatible with all **40-way** Raspberry Pi models and clones.
 | Asus Tinker Board | &#x2714;&#xFE0F; |
 | Orange Pi | &#x2714;&#xFE0F; |
 | Odroid | &#x2714;&#xFE0F; |
+| ATMegaZero | &#x2714;&#xFE0F; |
 
 ### Pin Conflicts
 
@@ -81,7 +81,7 @@ We have released an interactive [3D model](https://grabcad.com/library/hat-rack-
     </a>
 </p>
 
-# Change Log
+## Change Log
 
 * V1.0
     * Final prototype, as shown on [KickStarter](https://www.kickstarter.com/projects/plasmadan/hat-rack-din-rail-mount-for-raspberry-pi-hats?utm_source=github&utm_medium=changelog&utm_campaign=kickstarter)!
