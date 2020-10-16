@@ -42,7 +42,6 @@ HAT RACK is fully compatible with all **40-way** Raspberry Pi models and clones.
 
 | Device Model | Compatibility |
 | --- | :---: |
-| Raspberry Pi Model A/B | &#x274c; |
 | Raspberry Pi 1 Model A+/B/B+ | &#x2714;&#xFE0F; |
 | Raspberry Pi 2 Model B | &#x2714;&#xFE0F; |
 | Raspberry Pi 3 Model B/B+ | &#x2714;&#xFE0F; |
@@ -65,7 +64,7 @@ The easiest way to solve it is to physically remove the conflicting pin for one 
 * 2×20 pin 90 degree header
 * 2×20 pin 90 degree socket
 * 3.5mm pitch terminal block
-* 100 µF Electrolytic capacitor
+* 100 µF electrolytic capacitor
 * DIN rail adaptor (Phoenix Contact 1201578 or generic) – x3
 
 ## 3D Model
