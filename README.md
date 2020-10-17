@@ -34,7 +34,7 @@ HAT RACK can be configured in a whole bunch of ways. In theory there's no limit 
 
 ## External Powering
 
-You can optionally externally power your boards. This may be necessary when using lots of HATs or pHATs as the Raspberry Pi may not be able to supply enough power to them. This will depend on the HATs being used. Low-power HATs (such as our [CTRL HAT](https://plasmadan.com/ctrlhat)) can be daisy chained several times before external powering becomes necessary.
+You can optionally externally power your boards. This may be necessary when using lots of HATs or pHATs as the Raspberry Pi may not be able to supply enough power to them. This will depend on the HATs being used. Low-power HATs (such as our [CTRL HAT](https://github.com/plasmadancom/CTRL-HAT)) can be daisy chained several times before external powering becomes necessary.
 
 ## Device Compatibility
 
