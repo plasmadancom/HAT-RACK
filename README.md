@@ -1,6 +1,6 @@
 <p align="center">
     <a href="https://www.kickstarter.com/projects/plasmadan/hat-rack-din-rail-mount-for-raspberry-pi-hats?utm_source=github&utm_medium=banner&utm_campaign=kickstarter" target="_blank" rel="nofollow">
-        <img alt="KickStarter Banner" src="https://ksr-ugc.imgix.net/assets/026/487/839/6091c0ebeb610f404bd6deeebc0617e7_original.png?ixlib=rb-2.1.0&w=700&fit=max&v=1568587329&auto=format&frame=1&lossless=true&s=90c9609d6607b560a8d47b7d2db9f114">
+        <img alt="KickStarter Banner" src="/img/kickstarter-button.png">
     </a>
 </p>
 
